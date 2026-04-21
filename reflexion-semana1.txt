@@ -1,3 +1,8 @@
 La relación clave es la integridad de la información.
+El uso responsable de la información asegura que la participación ciudadana
+se base en hechos reales y no en desinformación.
 
-El uso responsable de la información asegura que la participación ciudadana se base en hechos reales y no en desinformación. De la misma manera, en el ámbito técnico, herramientas como Git garantizan esa transparencia mediante el control de versiones, permitiendo que el trabajo sea rastreable, ordenado y colaborativo.
+De la misma manera, en el ámbito técnico, herramientas como Git
+garantizan esa transparencia mediante el control de versiones,permitiendo
+que el trabajo sea rastreable, ordenado y colaborativo.
+Att: Juan Sebastian Peralta Angatita
