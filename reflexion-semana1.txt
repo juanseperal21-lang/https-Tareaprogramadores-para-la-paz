@@ -1,0 +1,8 @@
+En esta semana aprendimos sobre
+La ciudadania digital 
+Sus riesgos y su complejidad
+Ademas de esos profundisamos varios editores y apps para comenzar el curso como lo son
+Git
+Visual Studio
+Git hub
+Y ademas de eso un proceso inductivo acompañados de un tutot
